@@ -1,7 +1,6 @@
 package com.bridgelabz;
 
-class HashTableMain {
-
+    public class HashTableMain {
         public static void main(String[] args) {
             MyHashMap<String, Integer> hashTable = new MyHashMap();
             String sentence = "Paranoids are not paranoid because they are paranoid but because they keep putting themselves deliberately into paranoid avoidable situations";
